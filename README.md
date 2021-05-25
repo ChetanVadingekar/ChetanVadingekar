@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ChetanVadingekar
+- 👀 I’m interested in ...learning new technologies.
+- 🌱 I’m currently learning ...java,os,software engineering etc.
+- 💞️ I’m looking to collaborate on ...IT sector.
+- 📫 How to reach me ...Expert in basic technologies and updated.
+
+<!---
+ChetanVadingekar/ChetanVadingekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
