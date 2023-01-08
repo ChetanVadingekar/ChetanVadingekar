@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChetanVadingekar
 - 👀 I’m interested in ...learning new technologies.
-- 🌱 I’m currently learning ...java,os,software engineering etc.
+- 🌱 I’m currently learning ...Cloud and Data science etc.
 - 💞️ I’m looking to collaborate on ...IT sector.
 - 📫 How to reach me ...Expert in basic technologies and updated.
 
