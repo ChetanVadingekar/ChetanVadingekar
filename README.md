@@ -1,86 +1,18 @@
+# 💫 About Me:
+After building scalable cloud-native applications, distributed observability systems, and event-driven architectures for large-scale automotive data on AWS, I’ve become passionate about the future belonging to engineers who can combine cloud architecture, automation, and AI-driven innovation to solve real business problems.<br><br>I’m Chetan Vadingekar, a Senior Cloud Engineer with 4.7+ years of experience designing and deploying scalable, reliable, and cost-efficient cloud solutions on AWS. I also bring hands-on expertise in Python-based backend development, REST APIs, infrastructure automation, authentication and authorization flows, and end-to-end ownership across production environments.<br><br>What I’ve Built:<br>• Cloud-native and event-driven architectures using AWS Lambda, EventBridge, ECS, SQS, SNS, DynamoDB, OpenSearch, and API Gateway<br>• Backend microservices and REST APIs using Python Flask & FastAPI<br>• Distributed observability platforms using OpenTelemetry, Grafana Alloy, Loki, Tempo, Prometheus/Mimir, and Grafana<br>• End-to-end event traceability systems across AWS pipelines for centralized logging, metrics, and distributed tracing<br>• Infrastructure automation and CI/CD pipelines using Terraform, Docker, and AWS MLOps services<br>• Secure authentication and role-based access systems using AWS Cognito and IAM<br><br>What Drives Me:<br>I enjoy solving practical engineering problems, simplifying complex workflows, and building systems that are reliable, maintainable, and useful for the teams who depend on them every day.<br><br>Beyond the code:<br>I contribute not only through hands-on technical solutions but also by mentoring teams, stakeholder communication, design discussions, and process improvements. In my downtime, I enjoy outdoor activities like travelling, Cycling, Swimming, and playing football and Cricket, and I also enjoy cooking and spending time with my family and friends.<br><br>Currently Exploring:<br>• AWS Cloud Solution Architecture and Cloud-agnostic solutions<br>• Generative AI & AWS AI services to deliver modern cloud platforms<br><br>I’m seeking roles where I can design cloud-agnostic solutions today and while shaping AI-ready platforms for tomorrow.<br><br>📧 vadingekarchetan@gmail.com | Let’s connect if you’re building cloud-agnostic or AI-powered systems.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chetan-vadingekar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vadingekarchetan@gmail.com) 
+
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ChetanVadingekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ChetanVadingekar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ChetanVadingekar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div style="border: 2px solid #00C4FF; border-radius: 10px; padding: 15px; background-color: #0D1117;">
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="Cloud Engineer Banner" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Chetan Vadingekar</h1>
-<h3 align="center">🚀 Cloud Engineer | AWS Specialist | Backend Developer</h3>
-
----
-
-## 🌟 About Me
-
-💡 Passionate **Cloud Engineer** with **3.9+ years** of experience building  **scalable, highly available, and cost-efficient cloud-native solutions** on AWS.  I specialize in **serverless computing**, **API development with Python Flask**,  **event-driven architectures**, **OpenSearch**, and **automation** using **Terraform**.
-
-- 🔭 Currently working as **Senior Cloud Engineer** at **KPIT Technologies**.
-- 🌱 Learning **Generative AI + AWS Bedrock** to integrate LLMs into cloud apps.
-- ⚡ Love solving **scalability** and **cost-optimization** challenges.
-- 📫 Reach me at **vadingekarchetan@gmail.com**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🐍 **Programming & Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-### ⚡ **Testing & CI/CD**
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CodeCommit](https://img.shields.io/badge/AWS_CodeCommit-FF9900?style=for-the-badge&logo=aws&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### **1️⃣ Data Management Platform**  
-> Designed and implemented a **cloud-native platform** to process and analyze **4TB+** automotive data daily using **AWS Lambda**, **Terraform**, and **Flask**.  
-**Tech Stack:** AWS, Python, Flask, Terraform, Docker, CI/CD  
-
----
-
-### **2️⃣ Reporting Tool**
-> Automated AWS account reporting by fetching cost insights and user activity trails, improving **cloud cost visibility** and **security compliance**.  
-**Tech Stack:** Python, Boto3, AWS SDK, EC2, IAM, CloudTrail  
-
----
-
-### **3️⃣ Resource Management Platform** 
-> Built a **serverless cost monitoring platform** to track AWS usage, detect idle resources, and automate cost-saving actions across **multiple accounts**.  
-**Tech Stack:** AWS Lambda, DynamoDB, CloudFormation, Boto3  
-
----
-
-## 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanVadingekar&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanVadingekar&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChetanVadingekar&theme=onedark&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
@@ -99,7 +31,6 @@
   </a>
 </p>
 
-<!-- Light mode -->
-![github contribution grid snake light](https://raw.githubusercontent.com/ChetanVadingekar/ChetanVadingekar/output/github-snake.svg#gh-light-mode-only)
-
 </div>
+
+
